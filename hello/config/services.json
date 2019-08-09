@@ -1,0 +1,18 @@
+{
+"deployment-type":"green",
+"services":
+          [
+		  {
+		  "name":"hello",
+		  "env" :"dev"
+		  },
+		  {
+		  "name":"hello1",
+		  "env" :"dev"
+		  },
+		  {
+		  "name":"hello2",
+		  "env" :"dev"
+		  }
+		  ]
+}
